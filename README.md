@@ -26,4 +26,3 @@ $ git clone https://github.com/leopesi/teste_pratico.git
 Se deseja contrubuir com o projeto, basta abrir um issue e me dizer onde posso melhorar. Fork o repositório e muda o que desekar. 
 
 *If you want to contribute, just open an issue and tell me where I can improve. Fork the repository and change whatever you'd like. You can send Pull requests.*
->>>>>>> Initial Commit
