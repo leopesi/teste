@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# Teste-Prático
-Teste Prático 
-=======
-# Pool_budget
-**Pool_budget**  is an application to calculate some information to build a swimming-pool
-
 ## Como instalar? - *How to install?*
 
 **Clone o repositório.**
